@@ -1,0 +1,1 @@
+module github.com/rhnvrm/test-submodule-versioning/cmd/app

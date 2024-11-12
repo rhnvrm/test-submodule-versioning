@@ -1,0 +1,11 @@
+go 1.22.5
+
+use .
+
+use providers/foo/v1/.
+
+use providers/foo/v2/.
+
+use providers/foo/v3/.
+
+use cmd/app/.
